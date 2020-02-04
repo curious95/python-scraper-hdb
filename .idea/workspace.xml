@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f95a391-50e2-4d2b-8ee9-3aaf0196d51b" name="Default Changelist" comment="" />
+    <list default="true" id="9f95a391-50e2-4d2b-8ee9-3aaf0196d51b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/vba_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/XlsxWriter-1.2.7.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/XlsxWriter-1.2.7.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/XlsxWriter-1.2.7.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/XlsxWriter-1.2.7.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/XlsxWriter-1.2.7.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_doughnut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_pie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_radar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_scatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chart_stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/chartsheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/compatibility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/contenttypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/custom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/packager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/relationships.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/sharedstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/theme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/utility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/vml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/worksheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/xlsxwriter/xmlwriter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper_hdb/hdb_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper_hdb/hdb_scraper.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,38 +56,43 @@
     <session id="1413936671">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
-          <entry key="yml" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="py" value="3" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
-          <entry key="YAML" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="3" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1725" />
+          <entry key="gitignore" value="8" />
+          <entry key="py" value="3170" />
           <entry key="yml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1725" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="3170" />
           <entry key="YAML" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraper_hdb/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -52,22 +101,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scraper_hdb/hdb_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+            <state relative-caret-position="-172">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
-                <marker date="1580764901726" expanded="true" signature="343:344" ph="..." />
-                <marker date="1580764901726" expanded="true" signature="482:4183" ph="..." />
+                <marker date="1580845962212" expanded="true" signature="330:331" ph="..." />
+                <marker date="1580845962212" expanded="true" signature="469:2048" ph="..." />
+                <marker date="1580845962212" expanded="true" signature="3157:6855" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/environment.yml">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -81,25 +131,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/environment.yml" />
         <option value="$PROJECT_DIR$/scraper_hdb/hdb_scraper.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="y" value="23" />
-    <option name="width" value="1516" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,23 +163,12 @@
             </path>
             <path>
               <item name="python-scraper-hdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-scraper-hdb" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-scraper-hdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-scraper-hdb" type="462c0819:PsiDirectoryNode" />
-              <item name="scraper_hdb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-scraper-hdb" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,23 +229,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="23" width="1516" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15785953" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12427594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3148515" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34507772" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4242038" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3138614" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,6 +254,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/miniconda3/envs/hdb_scraper/lib/python3.6/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scraper_hdb/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -222,14 +271,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scraper_hdb/hdb_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+        <state relative-caret-position="-172">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
-            <marker date="1580764901726" expanded="true" signature="343:344" ph="..." />
-            <marker date="1580764901726" expanded="true" signature="482:4183" ph="..." />
+            <marker date="1580845962212" expanded="true" signature="330:331" ph="..." />
+            <marker date="1580845962212" expanded="true" signature="469:2048" ph="..." />
+            <marker date="1580845962212" expanded="true" signature="3157:6855" ph="..." />
           </folding>
         </state>
       </provider>
